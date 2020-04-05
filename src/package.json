@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.653.0",
-    "beep": "0.0.0"
+    "aws-sdk": "^2.653.0"
   }
 }
